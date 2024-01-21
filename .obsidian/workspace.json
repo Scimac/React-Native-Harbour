@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "291203802199aaca",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec4f65979f0df1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a5ee38c83c4c522",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21fa47680096f318",
+    "type": "split",
+    "children": [
+      {
+        "id": "70e8412e884e5059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92f4dbfe4aac3d20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "473255236d24ccc8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee1e3e2e00bdfe3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b6f5f8ad2742c08d",
+    "type": "split",
+    "children": [
+      {
+        "id": "791400b082244ff1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f6091f22ff60bd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fdf6a0066a88850",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ff337fe8f587436",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ccf5d383857bcf8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "92f4dbfe4aac3d20",
+  "lastOpenFiles": [
+    "README.md",
+    "01. Introduction to Mobile Ecosystem.md",
+    "05. Cross Platform Dev.md",
+    "04. JS and Web Browsers.md",
+    "03. Android and Ecosystem.md",
+    "02. IOS and Ecosystem.md"
+  ]
+}
